@@ -35,6 +35,9 @@
   <script type="text/babel">
     console.log('야옹');
 
+
+    df
+
     function CatItem(props) {
       return (
         <li>
@@ -48,6 +51,8 @@
         <ul className="favorites">
           <CatItem img="https://cataas.com/cat/BxqL2EjFmtxDkAm2/says/inflearn" />
           <CatItem img="https://cataas.com/cat/18MD6byVC1yKGpXp/says/JavaScript" />
+          <CatItem img="https://cataas.com/cat/18MD6byVC1yKGpXp/says/JavaScript" />
+
         </ul>
       )
     };
