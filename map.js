@@ -16,7 +16,3 @@ map.delete('key3');
 map.clear();
 console.log(map);
 
-const fruits = ['🍌', '🍎', '🍇', '🍌', '🍎', '🍑'];
-const set = new Set(fruits);
-
-
